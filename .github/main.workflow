@@ -1,4 +1,4 @@
-workflow "New workflow" {
+workflow "Notification on push" {
   on = "push"
   resolves = ["Slack notification"]
 }
