@@ -4,7 +4,8 @@ Sends a Slack notification. Simple as that.
 
 ![GitHub Action](action.png "GitHub Action")
 
-TODO: Slack image
+*Appearance on Slack :*
+![Slack message](action.png "Slack message")
 
 ## Usage
 
