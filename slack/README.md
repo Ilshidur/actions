@@ -9,8 +9,16 @@ TODO: Slack image
 ## Usage
 
 ```
-#TODO: Action description
+action "Slack notification" {
+  uses = "Ilshidur/actions/slack@master"
+  secrets = ["SLACK_WEBHOOK"]
+  args = "A new commit has been pushed."
+}
 ```
+
+**NOTICE :** for stability purposes, it is recommended to use the action with an explicit commit SHA-1 :
+
+`uses = "Ilshidur/actions/slack@416b4dd"` (🠚 link to the commits list : https://github.com/Ilshidur/actions/commits/master)
 
 ### Arguments
 
