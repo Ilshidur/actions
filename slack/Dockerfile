@@ -13,5 +13,6 @@ LABEL "version"="0.0.1"
 RUN apt-get update && apt-get install -y curl
 
 ADD entrypoint.sh /entrypoint.sh
+RUN chmod +x /entrypoint.sh
 ENTRYPOINT ["/entrypoint.sh"]
 #CMD "A new commit has been pushed."
