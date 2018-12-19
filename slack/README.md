@@ -2,7 +2,7 @@
 
 Sends a Slack notification. Simple as that.
 
-TODO: Action image
+![GitHub Action](action.png "GitHub Action")
 
 TODO: Slack image
 
