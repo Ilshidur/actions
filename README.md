@@ -10,6 +10,7 @@ Various GitHub Actions.
 
 ## Future actions ...
 
+- Discord notification
 - Remote docker-compose integration ?
 
 ## License
