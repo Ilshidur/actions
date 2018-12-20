@@ -10,6 +10,8 @@ Various GitHub Actions.
 
 ## Future actions ...
 
+- Webhook call
+- Tweet to Twitter
 - Discord notification
 - Remote docker-compose integration ?
 
