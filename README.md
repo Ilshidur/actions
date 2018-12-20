@@ -4,7 +4,7 @@ Various GitHub Actions.
 
 ## Available actions
 
-* [Slack notification](/slack) : `Ilshidur/actions/slack`
+* **[Slack notification](/slack)** : `Ilshidur/actions/slack`
 
 ... And more to come !
 
