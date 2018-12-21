@@ -20,6 +20,8 @@ else
 
 echo Sending event informations
 
-curl -X POST --data-urlencode "$(cat $GITHUB_EVENT_PATH)" $DISCORD_WEBHOOK/github
+echo $(cat $GITHUB_EVENT_PATH)
+
+curl -X POST -H "Content-Type: application/json" --data "$(cat $GITHUB_EVENT_PATH)" $DISCORD_WEBHOOK/github
 
 fi
