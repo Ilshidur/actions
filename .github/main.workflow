@@ -3,6 +3,7 @@ workflow "Notification on push" {
   resolves = [
     "Slack notification",
     "Discord notificaction",
+    "Discord notificaction CUSTOM",
   ]
 }
 
@@ -15,4 +16,10 @@ action "Slack notification" {
 action "Discord notificaction" {
   uses = "Ilshidur/actions/discord@discord"
   secrets = ["DISCORD_WEBHOOK"]
+}
+
+action "Discord notificaction CUSTOM" {
+  uses = "Ilshidur/actions/discord@discord"
+  secrets = ["DISCORD_WEBHOOK"]
+  args = "A new commit has been pushed to Ilshidur/actions."
 }
