@@ -10,9 +10,7 @@ then
 
 echo Sending $*
 
-# TODO: Overriding
-# payload={\"username\": \"$GITHUB_ACTION\", \"text\": \"$GITHUB_REPOSITORY/$GITHUB_WORKFLOW triggered by $GITHUB_ACTOR ($GITHUB_EVENT_NAME) :\n$*\", \"icon_url\": \"https://raw.githubusercontent.com/quintessence/slack-icons/master/images/github-logo-slack-icon.png\"}
-curl -X POST --data-urlencode "" $DISCORD_WEBHOOK
+curl -X POST --data-urlencode "{ \"content\": \"$*\" }" $DISCORD_WEBHOOK
 
 else
 
