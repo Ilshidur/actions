@@ -7,7 +7,6 @@ Supports all [workflow event types](https://developer.github.com/webhooks/#event
 
 *Appearance on Discord :*
 
-TODO:
 ![Discord message](discord.png "Discord message")
 
 ## Usage
