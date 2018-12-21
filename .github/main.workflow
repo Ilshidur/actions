@@ -13,6 +13,6 @@ action "Slack notification" {
 }
 
 action "Discord notificaction" {
-  uses = "Ilshidur/actions/discord@master"
+  uses = "Ilshidur/actions/discord@discord"
   secrets = ["DISCORD_WEBHOOK"]
 }
