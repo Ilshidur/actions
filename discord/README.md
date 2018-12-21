@@ -3,7 +3,6 @@
 Sends a Discord notification message. Simple as that.
 Supports all [workflow event types](https://developer.github.com/webhooks/#events) by using the [Discord GitHub webhooks](https://discordapp.com/developers/docs/resources/webhook#execute-githubcompatible-webhook).
 
-TODO:
 ![GitHub Action](action.png "GitHub Action")
 
 *Appearance on Discord :*
