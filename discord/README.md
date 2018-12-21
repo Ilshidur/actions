@@ -21,8 +21,7 @@ action "Discord notification" {
 
 **NOTICE :** for stability purposes, it is recommended to use the action with an explicit commit SHA-1 :
 
-TODO: Commit SHA-1
-`uses = "Ilshidur/actions/discord@416b4dd"` (=> link to the commits list : https://github.com/Ilshidur/actions/commits/master)
+`uses = "Ilshidur/actions/discord@a08c189"` (=> link to the commits list : https://github.com/Ilshidur/actions/commits/master)
 
 ### Arguments
 
