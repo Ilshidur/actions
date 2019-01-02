@@ -1,0 +1,27 @@
+{
+  "name": "jenkins-job-build",
+  "version": "0.0.1",
+  "description": "Triggers a Jenkins build",
+  "private": true,
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ilshidur/actions.git"
+  },
+  "keywords": [
+    "jenkins",
+    "github",
+    "action"
+  ],
+  "author": "Ilshidur",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ilshidur/actions/issues"
+  },
+  "homepage": "https://github.com/Ilshidur/actions#readme",
+  "dependencies": {
+    "jenkins": "^0.23.0"
+  }
+}

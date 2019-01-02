@@ -6,12 +6,13 @@ Various GitHub Actions.
 
 * **[Slack notification](/slack)** : `Ilshidur/actions/slack` - *version 1.0.0*
 * **[Discord notification](/discord)** : `Ilshidur/actions/discord` - *version 0.0.1*
+* **[Jenkins actions](/jenkins)**
+  * **[Job:build](/jenkins/job/build)** : `Ilshidur/actions/jenkins/job/build` - *version 0.0.1*
 
 ... And more to come !
 
-## Future actions ...
+## Future actions
 
-- Jenkins actions using the [npm jenkins package](https://www.npmjs.com/package/jenkins)
 - Webhook call
 - Tweet to Twitter
 - Remote docker-compose integration ?
