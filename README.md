@@ -11,6 +11,7 @@ Various GitHub Actions.
 
 ## Future actions ...
 
+- Jenkins actions using the [npm jenkins package](https://www.npmjs.com/package/jenkins)
 - Webhook call
 - Tweet to Twitter
 - Remote docker-compose integration ?
