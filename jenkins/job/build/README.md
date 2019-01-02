@@ -15,8 +15,7 @@ action "Jenkins/job/build" {
 
 **NOTICE :** for stability purposes, it is recommended to use the action with an explicit commit SHA-1 :
 
-TODO: Use an appropriate git SHA1.
-`uses = "Ilshidur/actions/jenkins/job/build@a08c189"` (=> link to the commits list : https://github.com/Ilshidur/actions/commits/master)
+`uses = "Ilshidur/actions/jenkins/job/build@822bd84"` (=> link to the commits list : https://github.com/Ilshidur/actions/commits/master)
 
 ### Arguments
 
