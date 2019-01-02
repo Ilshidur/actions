@@ -9,7 +9,7 @@ Triggers a Jenkins build. Simple as that.
 ```
 action "Jenkins/job/build" {
   uses = "Ilshidur/actions/jenkins/job/build@master"
-  secrets = ["BASE_URL"]
+  secrets = ["BASE_URL", "JOB_NAME"]
 }
 ```
 
