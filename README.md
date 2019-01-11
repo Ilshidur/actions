@@ -15,7 +15,7 @@ Various GitHub Actions.
 
 - Webhook call
 - Tweet to Twitter
-- Remote docker-compose integration ?
+- Kubectl
 
 ## License
 
