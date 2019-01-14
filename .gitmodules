@@ -1,0 +1,3 @@
+[submodule "discord"]
+	path = discord
+	url = git@github.com:Ilshidur/action-discord.git
