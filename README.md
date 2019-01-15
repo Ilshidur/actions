@@ -6,7 +6,7 @@ Various GitHub Actions.
 
 * **[Slack notification](https://github.com/Ilshidur/action-slack)** : `Ilshidur/action-slack` - *version 1.0.1*
 * **[Discord notification](https://github.com/Ilshidur/action-discord)** : `Ilshidur/action-discord` - *version 0.0.2*
-* **[Jenkins actions](/jenkins)**
+* **[Jenkins actions](/jenkins)** **NOT READY TO USE**
   * **[Job:build](/jenkins/job/build)** : `Ilshidur/actions/jenkins/job/build` - *version 0.0.1*
 
 ... And more to come !
@@ -16,6 +16,7 @@ Various GitHub Actions.
 - Webhook call
 - Tweet to Twitter
 - Kubectl
+- Ansible
 
 ## License
 
