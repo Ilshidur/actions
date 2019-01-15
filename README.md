@@ -4,8 +4,8 @@ Various GitHub Actions.
 
 ## Available actions
 
-* **[Slack notification](https://github.com/Ilshidur/action-slack)** : `Ilshidur/action-slack` - *version 1.0.1*
-* **[Discord notification](https://github.com/Ilshidur/action-discord)** : `Ilshidur/action-discord` - *version 0.0.2*
+* **[Slack notification](https://github.com/Ilshidur/action-slack)** : `Ilshidur/action-slack` - *version 1.0.1* ([Marketplace : *Actions for Discord*](https://github.com/marketplace/actions/actions-for-discord))
+* **[Discord notification](https://github.com/Ilshidur/action-discord)** : `Ilshidur/action-discord` - *version 0.0.2* ([Marketplace : *GitHub Action for Slack*](https://github.com/marketplace/actions/github-action-for-slack))
 * **[Jenkins actions](/jenkins)** **NOT READY TO USE**
   * **[Job:build](/jenkins/job/build)** : `Ilshidur/actions/jenkins/job/build` - *version 0.0.1*
 
