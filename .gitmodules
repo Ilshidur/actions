@@ -1,3 +1,6 @@
 [submodule "discord"]
 	path = discord
 	url = git@github.com:Ilshidur/action-discord.git
+[submodule "slack"]
+	path = slack
+	url = git@github.com:Ilshidur/action-slack.git
