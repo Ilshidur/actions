@@ -4,8 +4,8 @@ Various GitHub Actions.
 
 ## Available actions
 
-* **[Slack notification](/slack)** : `Ilshidur/actions/slack` - *version 1.0.1*
-* **[Discord notification](/discord)** : `Ilshidur/actions/discord` - *version 0.0.2*
+* **[Slack notification](https://github.com/Ilshidur/action-slack)** : `Ilshidur/action-slack` - *version 1.0.1*
+* **[Discord notification](https://github.com/Ilshidur/action-discord)** : `Ilshidur/action-discord` - *version 0.0.2*
 * **[Jenkins actions](/jenkins)**
   * **[Job:build](/jenkins/job/build)** : `Ilshidur/actions/jenkins/job/build` - *version 0.0.1*
 
