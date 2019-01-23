@@ -17,6 +17,7 @@ Various GitHub Actions.
 - Tweet to Twitter
 - Kubectl
 - Ansible
+- Filter 'commit' event (lookup commit message)
 
 ## License
 
