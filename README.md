@@ -13,7 +13,6 @@ Various GitHub Actions.
 
 ## Future actions
 
-- Webhook call
 - Tweet to Twitter
 - Kubectl
 - Ansible
