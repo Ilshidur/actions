@@ -18,6 +18,10 @@ Various GitHub Actions.
 - Ansible
 - Filter 'commit' event (lookup commit message)
 
+## Dev
+
+Bumping the modules : `git submodule update --recursive --remote`.
+
 ## License
 
 MIT License
