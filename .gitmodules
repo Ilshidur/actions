@@ -4,3 +4,6 @@
 [submodule "slack"]
 	path = slack
 	url = git@github.com:Ilshidur/action-slack.git
+[submodule "mercure"]
+	path = mercure
+	url = git@github.com:Ilshidur/action-mercure.git
