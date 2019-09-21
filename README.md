@@ -4,8 +4,8 @@ Various GitHub Actions.
 
 ## Available actions
 
-* **[Slack notification](https://github.com/Ilshidur/action-slack)** : `Ilshidur/action-slack` - ([Marketplace : *Actions for Discord*](https://github.com/marketplace/actions/actions-for-discord))
-* **[Discord notification](https://github.com/Ilshidur/action-discord)** : `Ilshidur/action-discord` - ([Marketplace : *GitHub Action for Slack*](https://github.com/marketplace/actions/github-action-for-slack))
+* **[Slack notification](https://github.com/Ilshidur/action-slack)** : `Ilshidur/action-slack` - ([Marketplace : *GitHub Action for Slack*](https://github.com/marketplace/actions/github-action-for-slack))
+* **[Discord notification](https://github.com/Ilshidur/action-discord)** : `Ilshidur/action-discord` - ([Marketplace : *Actions for Discord*](https://github.com/marketplace/actions/actions-for-discord))
 * **[Jenkins actions](/jenkins)**
   * **[Job:build](/jenkins/job/build)** : `Ilshidur/actions/jenkins/job/build` - (will be published on the Marketplace once it supports repositories with multiple Actions)
 * **[Mercure message](https://github.com/Ilshidur/action-mercure)** : `Ilshidur/action-mercure` - ([Marketplace : *GitHub Action for Mercure*](https://github.com/marketplace/actions/github-action-for-mercure))
