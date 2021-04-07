@@ -1,4 +1,4 @@
-FROM mhart/alpine-node:10.23.3
+FROM mhart/alpine-node:10.24.1
 
 LABEL "com.github.actions.name"="Jenkins/job/build"
 LABEL "com.github.actions.description"="Tiggers a Jenkins build."
