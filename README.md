@@ -1,5 +1,8 @@
 # Ilshidur/actions 🚀
 
+![stability-frozen](https://img.shields.io/badge/stability-locked-blue.svg)
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
 > Various GitHub Actions.
 
 ## Available actions
